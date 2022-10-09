@@ -1,4 +1,3 @@
-# **Form Tests**
 *How To Run The Script*
 1. Install the [Python](https://www.python.org/downloads/)
 2. Go to a repository where you want to save the project - `cd <folder name>`
